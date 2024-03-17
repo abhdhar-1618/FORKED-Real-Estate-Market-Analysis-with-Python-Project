@@ -1,5 +1,3 @@
-# Real-Estate-Market-Analysis-with-Python-Project: Investigating Property Transactions and Customer Satisfaction
-
 # Case Description
 
 # Background: The real estate market is a complex and dynamic entity of great interest for professionals in the field, investors, policymakers, and data analysts that wish to thoroughly understand the market conditions and customer behavior and make informed decisions. In our Real Estate Market Analysis with Python project, the client—a leading company in the industry—has collected data on properties and their customers and wishes you to help them with the real estate analysis. 
